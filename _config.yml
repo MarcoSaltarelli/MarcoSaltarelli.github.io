@@ -19,7 +19,7 @@ description: The work I do is something I thoroughly enjoy and as a result I am 
 twitter_username: #username
 github_username: marcosaltarelli
 minimal_mistakes_skin: air
-search: true
+search: true 
 
 # Build settings
 markdown: kramdown
