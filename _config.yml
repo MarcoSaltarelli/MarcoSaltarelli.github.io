@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Marco Saltarelli
 email:
-description: The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software.
-Azure,C# lover
+description: The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software.Azure,C# lover.
 twitter_username: #username
 github_username: marcosaltarelli
 minimal_mistakes_skin: air
