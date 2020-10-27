@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Marco Saltarelli"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software.Azure,C# lover."
+  bio    : "The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software. C#,Azure lover."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
