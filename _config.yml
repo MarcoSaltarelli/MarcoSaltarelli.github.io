@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marco Saltarelli
+title: Marco Saltarelli 
 email:
 description: The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software.Azure,C# lover.
 twitter_username: #username
