@@ -18,17 +18,28 @@ Esempio pratico:
 
 Supponiamo di avere 2 tabelle con i seguenti valori
 
-![tabelle](assets/images/posts/unionvsunionall/tabelle.png)
+![tabelle](/assets/images/posts/unionvsunionall/tabelle.png)
 
 
-risultato della UNION ALL: 
+Utilizzando UNION ALL
 
-![resultunionall](assets/images/posts/unionvsunionall/resultunionall.png)
+![unionall](/assets/images/posts/unionvsunionall/unionall.png)
+
+avremo come risultato  
+
+![resultunionall](/assets/images/posts/unionvsunionall/resultunionall.png)
 
 
-risultato della UNION: 
+Utilizzando UNION
 
-![resultunion](assets/images/posts/unionvsunionall/resultunion.png)
+![unionall](/assets/images/posts/unionvsunionall/uniona.png)
+
+avremo come risultato
+
+![resultunion](/assets/images/posts/unionvsunionall/resultunion.png)
 
 
-vediamo come il record Giovanni,Giovanni@dominio.com viene estratto una sola volta perchà duplicato.
+vediamo come il record "Giovanni,Giovanni@dominio.com" viene estratto una sola volta perchè duplicato.
+
+
+Da questo link è possibile scaricare lo script utilizzato per l'esempio [sqlscript](/assets/script/unionvsunionall.sql)
