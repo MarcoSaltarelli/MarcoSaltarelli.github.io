@@ -1,9 +1,3 @@
----
-layout: post
-title:  "UNION VS UNION ALL"
-tags:"SQL SELECT UNION"
-category:SQL
----
 Le istruzioni UNION e UNION ALL sono utili per unire il risultato di 2 o piu query che restituiscono lo stesso numero e tipo di colonne.
 
 Si differenziano per come gestiscono le righe duplicate.
@@ -21,14 +15,22 @@ Supponiamo di avere 2 tabelle con i seguenti valori
 ![tabelle](/assets/images/posts/unionvsunionall/tabelle.png)
 
 
-risultato della UNION ALL: 
+Utilizzando UNION ALL
+
+![unionall](/assets/images/posts/unionvsunionall/unionall.png)
+
+avremo come risultato  
 
 ![resultunionall](/assets/images/posts/unionvsunionall/resultunionall.png)
 
 
-risultato della UNION: 
+Utilizzando UNION
+
+![unionall](/assets/images/posts/unionvsunionall/uniona.png)
+
+avremo come risultato
 
 ![resultunion](/assets/images/posts/unionvsunionall/resultunion.png)
 
 
-vediamo come il record Giovanni,Giovanni@dominio.com viene estratto una sola volta perchà duplicato.
+vediamo come il record "Giovanni,Giovanni@dominio.com" viene estratto una sola volta perchè duplicato.
