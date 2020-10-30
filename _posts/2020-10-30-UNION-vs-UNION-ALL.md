@@ -34,3 +34,5 @@ avremo come risultato
 
 
 vediamo come il record "Giovanni,Giovanni@dominio.com" viene estratto una sola volta perchè duplicato.
+
+Da questo link è possibile scaricare lo script utilizzato per l'esempio [sqlscript](/assets/script/unionvsunionall.sql)
