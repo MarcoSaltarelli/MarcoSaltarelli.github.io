@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Marco Saltarelli 
 email:
-description: The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software.Azure,C# lover.
+description: C#,SQL Server,Azure.
 twitter_username: #username
-github_username: marcosaltarelli
+github_username: Morati81
 minimal_mistakes_skin: air
 search: true 
 
@@ -57,11 +57,11 @@ plugins:
 author:
   name   : "Marco Saltarelli"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The work I do is something I thoroughly enjoy and as a result I am always happy to learn new things and adjust my approach to developing software. C#,Azure lover."
+  bio    : "C#,SQL Server,Azure"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MarcoSaltarelli/"
+      url: "https://github.com/Morati81/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marcosaltarelli/"
@@ -70,7 +70,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MarcoSaltarelli/"
+      url: "https://github.com/Morati81/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marcosaltarelli/"
