@@ -18,25 +18,25 @@ Esempio pratico:
 
 Supponiamo di avere 2 tabelle con i seguenti valori
 
-![tabelle](/assets/images/posts/unionvsunionall/tabelle.png)
+![tabelle](/assets/images/posts/unionvsunionallv1/tabelle.png)
 
 
 Utilizzando UNION ALL
 
-![unionall](/assets/images/posts/unionvsunionall/unionall.png)
+![unionall](/assets/images/posts/unionvsunionallv1/unionall.png)
 
 avremo come risultato  
 
-![resultunionall](/assets/images/posts/unionvsunionall/resultunionall.png)
+![resultunionall](/assets/images/posts/unionvsunionallv1/resultunionall.png)
 
 
 Utilizzando UNION
 
-![unionall](/assets/images/posts/unionvsunionall/uniona.png)
+![unionall](/assets/images/posts/unionvsunionallv1/union.png)
 
 avremo come risultato
 
-![resultunion](/assets/images/posts/unionvsunionall/resultunion.png)
+![resultunion](/assets/images/posts/unionvsunionallv1/resultunion.png)
 
 
 vediamo come il record "Giovanni,Giovanni@dominio.com" viene estratto una sola volta perchè duplicato.
