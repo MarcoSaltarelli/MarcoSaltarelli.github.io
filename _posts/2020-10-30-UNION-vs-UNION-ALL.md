@@ -18,17 +18,17 @@ Esempio pratico:
 
 Supponiamo di avere 2 tabelle con i seguenti valori
 
-![tabelle](assets/images/posts/unionvsunionall/tabelle.png)
+![tabelle](/assets/images/posts/unionvsunionall/tabelle.png)
 
 
 risultato della UNION ALL: 
 
-![resultunionall](assets/images/posts/unionvsunionall/resultunionall.png)
+![resultunionall](/assets/images/posts/unionvsunionall/resultunionall.png)
 
 
 risultato della UNION: 
 
-![resultunion](assets/images/posts/unionvsunionall/resultunion.png)
+![resultunion](/assets/images/posts/unionvsunionall/resultunion.png)
 
 
 vediamo come il record Giovanni,Giovanni@dominio.com viene estratto una sola volta perchà duplicato.
