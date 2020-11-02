@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Azure DevOps Task Manuali
 category: DevOps
 tags: [Azure,DevOps]
