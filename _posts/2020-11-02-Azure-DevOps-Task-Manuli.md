@@ -1,11 +1,11 @@
 Oggi mi hanno chiesto di modificare la Pipelines di Azure in modo tale che notificasse di effettuare un task manuale all'utente.
 
-Dopo un minimo di ricerca ho trovato subito quello che mi serviva: Manual Intervention task.
+Dopo un minimo di ricerca ho trovato subito quello che mi serviva: **Manual Intervention Task**.
 
 Precisamente questo task permette di mettere in pausa il deploy su uno stage consentendo di effettuare operazioni manuali e dando poi la possibilità di riattivarlo.
 
 Visto che questo task non effettua nessuna azione diretta sul deploy può essere utilizzato solo all'interno di un' Agentless phase, 
-non dimenticatevi di aggiungerla altrimenti cercherete il Manual Intervention task invano :)
+non dimenticatevi di aggiungerla altrimenti cercherete il **Manual Intervention Task** invano :)
 
 ![azure-devops-add-an-agentless-job](/assets/images/posts/20201102/azure-devops-add-an-agentless-job.png)
 
