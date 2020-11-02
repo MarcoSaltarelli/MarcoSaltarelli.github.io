@@ -18,16 +18,16 @@ Dopo aver aggiunto un' Agentless phase vediamo come aggiungere il task:
 
 Dopo averlo aggiunto sarà possibile configuarne i parametri:
 
-Diplay Name  : Obbligatorio. Nome del task che comparirà nella pipeline.
-Instructions : Facoltativo.  Istruzioni da mostrare all'utente quando il task è attivo.Si possono inserire variali quali Ambiente di rilascio e/o definite dall'utente.
-Notify users : Facoltativo.  Si può impostare un utente o gruppo di utenti a cui inviare una notifica quando il task è attivo.
-On timeout   : Obbligatorio. Se deve specificare cosa fare(Remuse or Reject) in caso il task vada in timeout. Il default è Reject.
+1.**Diplay Name**  : Obbligatorio. Nome del task che comparirà nella pipeline.
+2.**Instructions** : Facoltativo.  Istruzioni da mostrare all'utente quando il task è attivo.Si possono inserire variali quali Ambiente di rilascio e/o definite dall'utente.
+3.**Notify users** : Facoltativo.  Si può impostare un utente o gruppo di utenti a cui inviare una notifica quando il task è attivo.
+4.**On timeout**   : Obbligatorio. Se deve specificare cosa fare(Remuse or Reject) in caso il task vada in timeout. Il default è Reject.
 
-Enabled		      : Indica se il task è abilitato o meno.
-Continue On Error : Indica se i task successivi devono essere eseguiti anche se il task in oggetto fallisce.
-Always run		  : Indica se eseguire il task anche se la build e/o il deploy sono falliti.
+5.**Enabled**		      : Indica se il task è abilitato o meno.
+6.**Continue On Error** : Indica se i task successivi devono essere eseguiti anche se il task in oggetto fallisce.
+7.**Always run**		  : Indica se eseguire il task anche se la build e/o il deploy sono falliti.
 
-Timeout : Obbligatorio. Specifica i minuti entro i quali il task viene annullato dal server. 0 è infinito.
+8.**Timeout** : Obbligatorio. Specifica i minuti entro i quali il task viene annullato dal server. 0 è infinito.
 
 ![azure-devops-manual-intervention-task](/assets/images/posts/20201102/azure-devops-manual-intervention-task.png)
 
