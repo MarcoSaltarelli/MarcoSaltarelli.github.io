@@ -1,10 +1,3 @@
----
-layout: post
-title: Sincronizzare GitHub Fork
-category: DevOps
-tags: [GitHub]
----
-
 Quando si collabora ad un progetto OpenSource su GitHub spesso ci viene chiesto di creare un Fork del progetto su cui applicare le nostre modifiche per poi sottoporle a Pull Request
 e in caso venga accettata, aggiornare il repository principale.
 
