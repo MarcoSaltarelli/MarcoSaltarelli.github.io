@@ -9,7 +9,7 @@ Quando si collabora ad un progetto OpenSource su GitHub spesso ci viene chiesto 
 e in caso venga accettata, aggiornare il repository principale.
 
 Con questo approccio peró, visto che dal momento in cui effettuiamo il Fork e il momento in cui sottoponiamo la nostra Pull Request puó passare diverso tempo,  ci si trova davanti al problema che il nostro 
-Fork non sará mai aggiornato con le ultime modifiche applicate al repository principale e questo potrebbe crearci problemi/conflitti in fase di merge. 
+Fork non sará mai aggiornato con le ultime modifiche applicate al repository principale e questo potrebbe crearci problemi in fase di merge. 
 
 E' consigliato quindi aggiornare spesso il nostro fork con le ultime modifiche apportate al repository principale é sempre comunque prima di sottoporre una Pull Request, vediamo come:
 
