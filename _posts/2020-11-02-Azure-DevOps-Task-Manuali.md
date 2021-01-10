@@ -2,7 +2,7 @@
 layout: post
 title: Azure DevOps Task Manuali
 category: DevOps
-tags: [Azure,DevOps]
+tags: [Azure]
 ---
 
 Oggi mi hanno chiesto di modificare la Pipelines di Azure in modo tale che notificasse di effettuare un task manuale all'utente.
