@@ -8,6 +8,7 @@ E' consigliato quindi aggiornare spesso il nostro fork con le ultime modifiche a
 
 
 spostarsi nella folder del repository e listare i remote repository configurati
+
 ![git-remote-v](/assets/images/posts/20210110/img1.png)
 
 aggiungere poi il nuovo remote upstream repository che sará poi sincronizzato con il nostro fork
@@ -20,6 +21,7 @@ effettuiamo un fetch dell'upstream repository e delle modifiche ad esso apportat
 ![git-fetch-upstream](/assets/images/posts/20210110/img4.png)
 
 effettuiamo il checkout del branch che vogliamo aggiornare, in questo caso dev
+
 ![git-checkout](/assets/images/posts/20210110/img5.png)
 
 effettuiamo il merge dall'upstream branch al nostro branch locale 
