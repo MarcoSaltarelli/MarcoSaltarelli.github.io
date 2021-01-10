@@ -1,6 +1,6 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! 
 #
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your whole blog, values 
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -18,11 +18,11 @@ email:
 description: C#,SQL Server,Azure.
 twitter_username: #username
 github_username: Morati81
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true 
 
 # Build settings
-markdown: kramdown
+markdown: kramdown 
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -33,7 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing. 
+# Exclude from processing.  
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:

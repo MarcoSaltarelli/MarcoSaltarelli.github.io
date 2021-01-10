@@ -1,9 +1,3 @@
----
-layout: post
-title: UNION vs UNION ALL
-category: Dev
-tags: [SQLServer]
----
 Le istruzioni UNION e UNION ALL sono utili per unire il risultato di 2 o piu query che restituiscono lo stesso numero e tipo di colonne.
 
 Si differenziano per come gestiscono le righe duplicate.
